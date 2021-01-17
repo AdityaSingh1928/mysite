@@ -1,0 +1,51 @@
+body{
+   
+    text-align: center;
+    font-family: gabriola;    
+    font-size: large;
+}
+h1{
+   
+   margin: 0px; 
+   
+}
+.top-container{
+    background-color: #E4F9F5;
+    height: 500px;
+    width: 100%px;
+    position: relative;
+    padding-top: 100px;
+   
+}
+.middle-container{
+   background-color: rgba(212, 167, 255, 0.562);
+   
+}
+.bottom-container{
+    background-color: rgb(135, 241, 245);
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 500px;
+    width: 80px;
+}
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+    width: 80px;
+}
+.a{
+    width: 200px;
+    height: 200px;
+}
+.p{
+    width: 330px;
+    height: 200px;
+}
+.abc{
+    width: 200px;
+    height: 200px;
+}
